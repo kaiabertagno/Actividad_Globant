@@ -1,5 +1,5 @@
 # Actividad_Globant - Proyecto Appetito
-- Propósito del Sistema
+- Propósito del Sistema:
 Appetito es una Webapp cuyo objetivo es modernizar y simplificar el proceso de compra y reserva de alimentos dentro de instituciones educativas.
 
 - La aplicación busca resolver dos problemas principales:
