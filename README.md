@@ -2,7 +2,7 @@
 - Propósito del Sistema:
 Appetito es una Webapp cuyo objetivo es modernizar y simplificar el proceso de compra y reserva de alimentos dentro de instituciones educativas.
 
-- La aplicación busca resolver dos problemas principales:
+La aplicación busca resolver dos problemas principales:
 
 *Control y Logística: Permite a los padres realizar la compra y reserva de productos para sus hijos con anticipación, facilitando un control sobre el tipo de alimentos que consumen.
 
